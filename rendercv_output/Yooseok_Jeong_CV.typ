@@ -496,14 +496,14 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a high-frequency trading \(#strong[HFT]\) system in #strong[Rust], significantly improving operational efficiency.],[Built a #strong[Python]-based trading framework that enabled strategy developers to focus solely on business logic; standardized market data and execution, implemented robust error handling and logging, and added graceful shutdown, improving reliability and reducing operational overhead.],[Created market data and execution services integrating over 20 #strong[CEX]\/#strong[DEX] venues, applying unified schemas, rate limiting, and automatic retries.],[Developed a Slack-integrated trading system management service.],[Developed and deployed multiple trading algorithms \(details confidential\).],[Developed a deep learning-based trading system and strategy.],[Maintained and improved the internal accounting system.],[Tech: #strong[Rust], #strong[Python], TypeScript, TensorFlow, PyTorch],)
+    #v(design-highlights-top-margin);#highlights([Developed a high-frequency trading \(#strong[HFT]\) system in #strong[Rust] and created market data and order execution services integrating over 20 #strong[CEX]\/#strong[DEX] venues \(unified schemas, rate limiting, automatic retries\), for real-time trading strategies.],[Built a #strong[Python]-based trading framework that enabled strategy developers to focus solely on business logic; normalized market data schemas and a unified order execution API, implemented robust error handling and logging, and added graceful shutdown, improving reliability and reducing operational overhead.],[Developed a Slack-integrated trading system management service.],[Developed and deployed multiple trading algorithms \(details confidential\).],[Developed a deep learning-based trading system and strategy.],[Maintained and improved the internal accounting system.],[Tech: #strong[Rust], #strong[Python], TypeScript, TensorFlow, PyTorch],)
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Research Intern], Morpheus -- Seoul, South Korea
+    #strong[Research Intern], Morpheus3D -- Seoul, South Korea
   ],
   right-content: [
     Mar 2020 – Aug 2020
@@ -511,7 +511,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a multi-view diffusion 3D generation system.],[Developed a light stage 3D scanning system.],[Tech: #strong[Python], C++, OpenCV],)
+    #v(design-highlights-top-margin);#highlights([Designed and built a light-stage 3D scanning system, covering hardware \(lighting\/camera rig\) and reconstruction algorithms.],[Improved a multi-view diffusion-based 3D generation pipeline by correcting brightness inconsistencies in overlapping regions, yielding more accurate reconstruction.],[Focused on 3D reconstruction for medical simulation workflows; simulation components were out of scope.],[Tech: #strong[Python], C++, OpenCV],)
   ],
 )
 
@@ -533,7 +533,7 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Research Intern], Morpheus -- Seoul, South Korea
+    #strong[Research Intern], Morpheus3D -- Seoul, South Korea
   ],
   right-content: [
     June 2018 – Aug 2018
@@ -705,7 +705,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([GPA: 4.07\/4.30],)
+    
   ],
   inset: (
     left: design-entries-left-and-right-margin,

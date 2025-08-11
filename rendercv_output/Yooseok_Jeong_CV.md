@@ -23,21 +23,21 @@ Software Engineer who enjoys creating visible results. Aim to create meaningful 
 
 - Sept 2020 – May 2025
 - Seoul, South Korea
-- Developed a high-frequency trading (**HFT**) system in **Rust**, significantly improving operational efficiency.
-- Built a **Python**-based trading framework that enabled strategy developers to focus solely on business logic; standardized market data and execution, implemented robust error handling and logging, and added graceful shutdown, improving reliability and reducing operational overhead.
-- Created market data and execution services integrating over 20 **CEX**/**DEX** venues, applying unified schemas, rate limiting, and automatic retries.
+- Developed a high-frequency trading (**HFT**) system in **Rust** and created market data and order execution services integrating over 20 **CEX**/**DEX** venues (unified schemas, rate limiting, automatic retries), for real-time trading strategies.
+- Built a **Python**-based trading framework that enabled strategy developers to focus solely on business logic; normalized market data schemas and a unified order execution API, implemented robust error handling and logging, and added graceful shutdown, improving reliability and reducing operational overhead.
 - Developed a Slack-integrated trading system management service.
 - Developed and deployed multiple trading algorithms (details confidential).
 - Developed a deep learning-based trading system and strategy.
 - Maintained and improved the internal accounting system.
 - Tech: **Rust**, **Python**, TypeScript, TensorFlow, PyTorch
 
-## Morpheus, Research Intern
+## Morpheus3D, Research Intern
 
 - Mar 2020 – Aug 2020
 - Seoul, South Korea
-- Developed a multi-view diffusion 3D generation system.
-- Developed a light stage 3D scanning system.
+- Designed and built a light-stage 3D scanning system, covering hardware (lighting/camera rig) and reconstruction algorithms.
+- Improved a multi-view diffusion-based 3D generation pipeline by correcting brightness inconsistencies in overlapping regions, yielding more accurate reconstruction.
+- Focused on 3D reconstruction for medical simulation workflows; simulation components were out of scope.
 - Tech: **Python**, C++, OpenCV
 
 ## Seoul National University, Quantum Information and Quantum Computing Research Lab (Prof. Tae-Hyeon Kim), Undergraduate Intern
@@ -47,7 +47,7 @@ Software Engineer who enjoys creating visible results. Aim to create meaningful 
 - Researched quantum algorithms.
 - Researched the Qiskit quantum computing library.
 
-## Morpheus, Research Intern
+## Morpheus3D, Research Intern
 
 - June 2018 – Aug 2018
 - Seoul, South Korea
@@ -110,7 +110,6 @@ Software Engineer who enjoys creating visible results. Aim to create meaningful 
 
 - Mar 2014 – Feb 2017
 - Seoul, South Korea
-- GPA: 4.07/4.30
 
 # Awards
 
